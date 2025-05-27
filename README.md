@@ -1,9 +1,9 @@
-# General inquiry
+# Homepage wireframe
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/innovation-rudras-projects/v0-general-inquiry)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/WABe3AaVzHS)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rudratoshs-projects/v0-homepage-wireframe)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/KmR7RJNrbIp)
 
 ## Overview
 
@@ -14,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/innovation-rudras-projects/v0-general-inquiry](https://vercel.com/innovation-rudras-projects/v0-general-inquiry)**
+**[https://vercel.com/rudratoshs-projects/v0-homepage-wireframe](https://vercel.com/rudratoshs-projects/v0-homepage-wireframe)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/WABe3AaVzHS](https://v0.dev/chat/projects/WABe3AaVzHS)**
+**[https://v0.dev/chat/projects/KmR7RJNrbIp](https://v0.dev/chat/projects/KmR7RJNrbIp)**
 
 ## How It Works
 
